@@ -2,7 +2,7 @@
 Reformatter for 1 claim/indian vccs
 
 Reformats
-Online Payment Card Details: 
+Online Payment Card Details:
 Card value: 1.00 EGP 
 Card number: 5170617389498894 
 Exp Date: 07/24 
@@ -18,7 +18,7 @@ This will soon be turned into an All In One Reformatter soon
 
 
 All you need to do is paste your 
-"Online Payment Card Details: 
+"Online Payment Card Details:
 Card value: 1.00 EGP 
 Card number: 5170617389498894 
 Exp Date: 07/24 
