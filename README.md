@@ -1,4 +1,5 @@
-# VCC-Reformatter Made by https://discord.gg/fastboosting | Lunacy
+# VCC-Reformatter
+Made by https://discord.gg/fastboosting | $notlunacy#0001
 Reformatter for 1 claim/indian vccs
 
 Reformats
