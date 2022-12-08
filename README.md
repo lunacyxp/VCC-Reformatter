@@ -1,5 +1,5 @@
 # VCC-Reformatter
-Made by https://discord.gg/fastboosting | $notlunacy#0001
+Made by fastboosts.com  |  https://t.me/H4unt
 
 Reformatter for 1 claim/indian vccs
 
