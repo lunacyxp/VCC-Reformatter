@@ -1,6 +1,8 @@
 # VCC-Reformatter
 Made by fastboosts.com  |  https://t.me/H4unt
 
+For the cheapest and fastest high qaulity proxies join - https://discord.gg/myproxies
+
 Reformatter for 1 claim/indian vccs
 
 Reformats
